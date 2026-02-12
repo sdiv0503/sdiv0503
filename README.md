@@ -14,6 +14,3 @@ I am a Full-Stack Developer and B.Tech IT student at VIT, Vellore. I specialize 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=sdiv0503&icon=0&color=0)](https://visitcount.itsvg.in)
